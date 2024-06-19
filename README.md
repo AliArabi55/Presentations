@@ -10,3 +10,5 @@ Link to presentation [Characteristics of a Good Computer Program](https://github
 ## 2. Chest Check
 
 Link to presentation [Chest Check](https://github.com/AliArabi55/Presentations/tree/main/Presentations/Chest%20Check)
+
+## 3. Computer Science Fields 
